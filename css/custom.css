@@ -10771,8 +10771,19 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.hero > p {
+  color: #BF4F26;
+}
+
 .title {
   color: #A0BF30;
+}
+
+.desc {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 25px;
+  padding: 10px;
 }
 
 @media (max-width: 768px) {

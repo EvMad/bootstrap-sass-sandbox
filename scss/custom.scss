@@ -16,8 +16,20 @@ $danger: #BF4F26;
 
 //
 
+.hero > p {
+    color: $danger;
+}
+
 .title {
     color: $secondary;
+}
+
+.desc {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px;
+    
 }
 
 //media queries
