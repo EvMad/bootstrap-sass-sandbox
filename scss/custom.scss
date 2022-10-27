@@ -20,6 +20,11 @@ $danger: #BF4F26;
     color: $danger;
 }
 
+.hero > hr {
+    color: $secondary;
+    border-width: 2px;
+}
+
 .title {
     color: $secondary;
 }

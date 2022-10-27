@@ -10775,6 +10775,11 @@ textarea.form-control-lg {
   color: #BF4F26;
 }
 
+.hero > hr {
+  color: #A0BF30;
+  border-width: 2px;
+}
+
 .title {
   color: #A0BF30;
 }
