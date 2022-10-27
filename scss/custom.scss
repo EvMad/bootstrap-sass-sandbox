@@ -5,6 +5,21 @@ $dark: #262622;
 $danger: #BF4F26;
 
 
-
-
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+// mixins
+
+@mixin mobile {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+//media queries
+
+@media (max-width: 768px) {
+    .features {
+        @include mobile;
+    }
+}
+

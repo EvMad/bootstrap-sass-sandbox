@@ -10771,5 +10771,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+@media (max-width: 768px) {
+  .features {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
 
 /*# sourceMappingURL=custom.css.map */
