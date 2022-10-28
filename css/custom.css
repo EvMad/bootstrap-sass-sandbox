@@ -10799,6 +10799,10 @@ textarea.form-control-lg {
   padding: 10px;
 }
 
+.footer {
+  font-size: 16px;
+}
+
 @media (max-width: 768px) {
   .features {
     flex-direction: column;
