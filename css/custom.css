@@ -10773,6 +10773,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.hero > h1, .hero > .h1 {
+  font-weight: 700;
+}
+
 .hero > p {
   color: #BF4F26;
 }
@@ -10784,6 +10788,8 @@ textarea.form-control-lg {
 
 .title {
   color: #A0BF30;
+  font-weight: 500;
+  padding: 10px;
 }
 
 .desc {

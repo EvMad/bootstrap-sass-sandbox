@@ -25,6 +25,10 @@ $font-family-base: 'Poppins', sans-serif;
 
 //
 
+.hero > h1 {
+    font-weight: 700;
+}
+
 .hero > p {
     color: $danger;
 }
@@ -36,6 +40,8 @@ $font-family-base: 'Poppins', sans-serif;
 
 .title {
     color: $secondary;
+    font-weight: 500;
+    padding: 10px;
 }
 
 .desc {
